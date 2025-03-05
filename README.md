@@ -58,7 +58,7 @@ The **Embedded Spatial Mapping System** is a microcontroller-based solution that
 3. Observe the spatial mapping output in the **graphical user interface (GUI)**.
 
 ## 📊 Sample Output
-![![image](https://github.com/user-attachments/assets/0ae9ba6e-e4bb-4d64-92bf-61f4ecbb5932)]
+![image](https://github.com/user-attachments/assets/0ae9ba6e-e4bb-4d64-92bf-61f4ecbb5932)
 This plot was reconstronsctructed from a simple, straight hallway.
 
 ---
