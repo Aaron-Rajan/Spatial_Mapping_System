@@ -24,7 +24,7 @@ The **Embedded Spatial Mapping System** is a microcontroller-based solution that
 ├── 📂 Keil_rajana8    # Embedded C/C++ firmware for microcontroller
 ├── 📂 PC_rajana8      # Python scripts for data visualization
 ├── 📂 docs            # Project documentation
-└── README.md          # Project overview
+└── README.md         # Project overview
 ```
 
 ## 🚀 Getting Started
