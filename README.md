@@ -62,4 +62,4 @@ The **Embedded Spatial Mapping System** is a microcontroller-based solution that
 This plot was reconstronsctructed from a simple, straight hallway.
 
 ---
-Made with ❤️ by [Aaron Rajan]
+Made with ❤️ by Aaron Rajan
