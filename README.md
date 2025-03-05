@@ -21,11 +21,10 @@ The **Embedded Spatial Mapping System** is a microcontroller-based solution that
 ## 📦 Project Structure
 ```
 📁 Embedded-Spatial-Mapping
-├── 📂 firmware          # Embedded C/C++ firmware for microcontroller
-├── 📂 python-scripts    # Python scripts for data visualization
-├── 📂 hardware          # Circuit schematics and assembly diagrams
-├── 📂 docs              # Project documentation
-└── README.md           # Project overview
+├── 📂 Keil_rajana8    # Embedded C/C++ firmware for microcontroller
+├── 📂 PC_rajana8      # Python scripts for data visualization
+├── 📂 docs            # Project documentation
+└── README.md          # Project overview
 ```
 
 ## 🚀 Getting Started
